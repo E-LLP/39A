@@ -1,0 +1,16 @@
+{
+"title": "39A", 
+"visibility": "public", 
+"type": "GIT", 
+"description": "39A is the software used to power the 2013 International Space Apps Challenge, a global hackathon focusing on space technology and issues.", 
+"url": "https://github.com/nasa/39A",
+"repo": "nasa/39A",
+"missions":["OCIO", "JSC"], 
+"categories": ["Citizen Science", "NASA", "Outreach", "Hackathon"], 
+"languages": ["Javascript", "HTML", "CSS", "Python", "Django"],
+"operating_systems": ["Linux", "Windows", "Unix", "Mac"],  
+"poc": "Jason Duley", 
+"poc_mbox": "jason.j.duley@nasa.gov", 
+"license": "NASA Open Source Agreement Version 1.3", 
+"software_types": ["website"]
+}
